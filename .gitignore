@@ -1,0 +1,5 @@
+__pycache__/
+example.log
+config.py
+actions.log
+*.pyc
